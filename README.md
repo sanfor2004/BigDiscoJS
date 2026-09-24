@@ -1,14 +1,10 @@
 # BigDiscoJS
 
-![BigDiscoJS lemon-green logo](branding/bigdiscojs-logo.png)
-
 ![BigDiscoJS lemon-green banner](branding/bigdiscojs-banner.png)
 
 JavaScript/TypeScript Discord operations bot for the next iteration of the
 BigDisco project. The repository was initialized from the
 `sanfor2004/BigDiscoJS` GitHub repository.
-
-![BigDiscoJS lemon-green social preview](branding/bigdiscojs-social-preview.png)
 
 ## BigDPP reference
 
